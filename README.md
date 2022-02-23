@@ -8,11 +8,11 @@ Since the [Tahti Studio](https://tahti.studio/) Default Library was recently rel
 If you'd like to learn how to create your own custom libraries for Estuary, see [this wiki page:](https://github.com/dktr0/estuary/wiki#adding-sound-files-to-estuarywebdirt-on-the-fly-early-august-2021) [https://github.com/dktr0/estuary/wiki#adding-sound-files-to-estuarywebdirt-on-the-fly-early-august-2021](https://github.com/dktr0/estuary/wiki#adding-sound-files-to-estuarywebdirt-on-the-fly-early-august-2021)
 
 ## List of sound resources
-bpb808 - 15 sounds
-bpb909 - 14 sounds
-bpbdd8 - 25 sounds
-bpbhousehold - 41 sounds
-bpbminianalogue - 30 sounds
-essentials - 17 sounds
-odlx - 29 sounds
+bpb808 - 15 sounds\
+bpb909 - 14 sounds\
+bpbdd8 - 25 sounds\
+bpbhousehold - 41 sounds\
+bpbminianalogue - 30 sounds\
+essentials - 17 sounds\
+odlx - 29 sounds\
 taui - 17 sounds
